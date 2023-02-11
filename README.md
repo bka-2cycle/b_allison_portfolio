@@ -6,7 +6,7 @@ Portfolio created in React to showcase my projects, and projects that I have col
 
 ## Installation
 
-The site can be visited via URL at:
+The site can be visited via URL at: https://bka-2cycle.github.io/b_allison_portfolio/
 
 ## Usage
 
