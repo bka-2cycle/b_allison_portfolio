@@ -1,7 +1,7 @@
 {
   "name": "b_allison_portfolio",
   "version": "0.1.0",
-  "homepage": "https://bka-2cycle.github.io/b_allison_portfolio",
+  "homepage": "https://bka-2cycle.github.io/b_allison_portfolio/public/index.html",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
